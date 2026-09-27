@@ -1,0 +1,102 @@
+{
+  "projects": [
+    {
+      "id": "velvetx",
+      "name": "VelvetX",
+      "category": "AI-powered DeFi & on-chain trading",
+      "description": "Educational video content breaking down VelvetX, AI-assisted trading, discovery and on-chain execution.",
+      "logo": "https://www.google.com/s2/favicons?domain=velvet.capital&sz=128",
+      "officialLink": "https://www.velvet.capital/",
+      "proofLinks": [
+        "https://x.com/prettybel33/status/2072895851236618741?s=46",
+        "https://x.com/prettybel33/status/2079782239747907954?s=46"
+      ],
+      "screenshots": ["assets/proof/pow-velvet-epoch-12.jpg", "assets/proof/pow-velvet-5k.jpg", "assets/proof/pow-velvet-fragmentation.jpg"],
+      "proofOfWork": [
+        {"type": "Campaign Video", "note": "$1M+ in rewards / Epoch 12", "screenshot": "assets/proof/pow-velvet-epoch-12.jpg", "link": "https://x.com/prettybel33/status/2093209280996377046?s=46"},
+        {"type": "Product Explainer", "note": "5.3K views · 138 replies · 170 likes", "screenshot": "assets/proof/pow-velvet-5k.jpg", "link": "https://x.com/prettybel33/status/2072895851236618741?s=46"},
+        {"type": "Product Story", "note": "DeFi trading fragmentation", "screenshot": "assets/proof/pow-velvet-fragmentation.jpg", "link": "https://x.com/prettybel33/status/2086667519373222200?s=46"}
+      ]
+    },
+    {
+      "id": "snvr",
+      "name": "SNVR",
+      "category": "Privacy infrastructure",
+      "description": "Educational content introducing SNVR's privacy-first finance infrastructure built on Secret Network.",
+      "logo": "https://www.google.com/s2/favicons?domain=snvr.org&sz=128",
+      "officialLink": "https://snvr.org/",
+      "proofLinks": ["https://x.com/prettybel33/status/2078518657529843788?s=46"],
+      "screenshots": [],
+      "proofOfWork": []
+    },
+    {
+      "id": "ubuntu-tribe",
+      "name": "Ubuntu Tribe",
+      "category": "Gold-backed RWA",
+      "description": "Community-focused educational campaign content explaining Ubuntu Tribe and digital access to gold-backed value.",
+      "logo": "https://www.google.com/s2/favicons?domain=utribe.one&sz=128",
+      "officialLink": "https://utribe.one/",
+      "proofLinks": [
+        "https://x.com/prettybel33/status/2062751006564200842?s=46",
+        "https://x.com/prettybel33/status/2064561858086899910?s=46",
+        "https://x.com/prettybel33/status/2067825934082724185?s=46",
+        "https://x.com/prettybel33/status/2069639263314997417?s=46"
+      ],
+      "screenshots": ["assets/proof/pow-ubuntu-tribe.jpg", "assets/proof/pow-ubuntu-support.jpg"],
+      "proofOfWork": [
+        {"type": "Educational Video", "note": "Digital gold ownership", "screenshot": "assets/proof/pow-ubuntu-tribe.jpg", "link": "https://x.com/prettybel33/status/2062751006564200842?s=46"},
+        {"type": "Tutorial / Education", "note": "Product-support education", "screenshot": "assets/proof/pow-ubuntu-support.jpg", "link": "https://x.com/prettybel33/status/2064561858086899910?s=46"}
+      ]
+    },
+    {
+      "id": "bitget-wallet",
+      "name": "Bitget Wallet",
+      "category": "Campaign content",
+      "description": "Campaign content promoting the DTF Trading Competition and Bitget Wallet's user-facing Web3 experience.",
+      "logo": "https://www.google.com/s2/favicons?domain=web3.bitget.com&sz=128",
+      "officialLink": "https://web3.bitget.com/",
+      "proofLinks": ["https://x.com/prettybel33/status/2079319915358548192?s=46"],
+      "screenshots": [],
+      "proofOfWork": []
+    },
+    {
+      "id": "shift-rwa",
+      "name": "SHIFT RWA",
+      "category": "Tokenized real-world assets",
+      "description": "Educational content explaining accessible, transparent RWA trading and tokenized assets.",
+      "logo": "https://www.google.com/s2/favicons?domain=medium.com&sz=128",
+      "officialLink": "https://medium.com/@rwa-shift/meet-shift-your-key-to-rwa-trading-anywhere-anytime-21234485a5d1",
+      "proofLinks": ["https://x.com/prettybel33/status/2068910120814154063?s=46"],
+      "screenshots": ["assets/proof/pow-shift-rwa.jpg"],
+      "proofOfWork": [
+        {"type": "Educational Video", "note": "On-chain access to real-world assets", "screenshot": "assets/proof/pow-shift-rwa.jpg", "link": "https://x.com/prettybel33/status/2068910120814154063?s=46"}
+      ]
+    },
+    {
+      "id": "cluster-codexero",
+      "name": "Cluster Protocol / CodeXero",
+      "category": "AI-powered Web3 development",
+      "description": "Product breakdown explaining how CodeXero enables browser-native, prompt-driven Web3 development.",
+      "logo": "https://www.google.com/s2/favicons?domain=clusterprotocol.ai&sz=128",
+      "officialLink": "https://www.clusterprotocol.ai/",
+      "proofLinks": ["https://x.com/prettybel33/status/2064198440666513552?s=46"],
+      "screenshots": ["assets/proof/pow-codexero.jpg"],
+      "proofOfWork": [
+        {"type": "Product Breakdown", "note": "AI-powered Web3 development", "screenshot": "assets/proof/pow-codexero.jpg", "link": "https://x.com/prettybel33/status/2064198440666513552?s=46"}
+      ]
+    },
+    {
+      "id": "kgen",
+      "name": "KGeN",
+      "category": "Gaming & reputation infrastructure",
+      "description": "Educational content introducing KGeN and its Proof of Gamer infrastructure for gaming communities.",
+      "logo": "https://www.google.com/s2/favicons?domain=kgn.live&sz=128",
+      "officialLink": "https://kgn.live/",
+      "proofLinks": ["https://x.com/prettybel33/status/2079091763306807441?s=46"],
+      "screenshots": ["assets/proof/pow-kgen.jpg"],
+      "proofOfWork": [
+        {"type": "Educational Video", "note": "Physical AI & human-world data", "screenshot": "assets/proof/pow-kgen.jpg", "link": "https://x.com/prettybel33/status/2079091763306807441?s=46"}
+      ]
+    }
+  ]
+}
